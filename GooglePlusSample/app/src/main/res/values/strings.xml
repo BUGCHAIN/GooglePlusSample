@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GooglePlus Sample</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout from Google</string>
+    <string name="revoke_access">Revoke Access</string>
+
+<string name="loginText">Login with your Google Account</string>
+
+
+    </resources>
